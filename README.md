@@ -73,7 +73,9 @@ Displays performance metrics such as accuracy and confusion matrix.
 6. Prediction:
 Allows users to input custom text reviews and view predicted sentiment.
 
-Dependencies
+---
+
+## Dependencies
 
 - pandas – Data handling
 
@@ -140,3 +142,10 @@ Contributions are welcome!
 - Open an issue for bugs or feature requests
 
 - Submit a pull request for improvements.
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</p>
+
