@@ -16,7 +16,7 @@ A Python-based project that performs Sentiment Analysis on restaurant reviews us
 
 - Supports custom input review testing
  
-- Built using Jupyter Notebook for interactive experimentation
+- Built using Jupyter Notebook for interactive experimentation.
 
 ---
 
@@ -148,4 +148,5 @@ Contributions are welcome!
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
 
