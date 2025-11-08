@@ -109,9 +109,9 @@ Install them manually if needed:
 
 ## Results
 
-- Algorithm Used: Naive Bayes
+- Algorithm Used: Naive Bayes.
 
-- Model Accuracy: ~73–78% (depending on dataset and preprocessing)
+- Model Accuracy: ~73–78% (depending on dataset and preprocessing).
 
 - Confusion Matrix: Displayed in notebook output.
 
@@ -148,5 +148,6 @@ Contributions are welcome!
     <img src="https://img.shields.io/badge/%E2%AC%86-Back%20to%20Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </p>
+
 
 
